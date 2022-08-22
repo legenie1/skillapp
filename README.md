@@ -1,16 +1,8 @@
-# restaurant
+# Skill app UI
 
-A new Flutter project.
+This implementation was made with Flutter
 
-## Getting Started
+## just coded to learn more on flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-08-22 at 20 03 45](https://user-images.githubusercontent.com/72471055/186009849-4c68da25-1f8d-4556-bed6-84b724277550.jpeg)
